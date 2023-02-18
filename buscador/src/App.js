@@ -3,7 +3,7 @@
 
 import { useState } from 'react';
 import { FiSearch } from 'react-icons/fi';
-import './style.css';
+import './app.css';
 import api from './services/App';
 
 function App() {
